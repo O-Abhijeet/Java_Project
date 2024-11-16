@@ -103,7 +103,7 @@ public class AgeCalc {
 
         // Exit condition
         if (input.equalsIgnoreCase("EXIT")) {
-            System.out.println("Exiting the program. Goodbye!");
+            System.out.println("Exiting the program. Thank You and Goodbye!");
             sc.close();
             return;
         }
